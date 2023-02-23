@@ -1,1 +1,1 @@
-# REST API tests with postman
+# REST API TESTS
